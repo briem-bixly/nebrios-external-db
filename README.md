@@ -25,4 +25,4 @@ session = Session()
 - username (optional): the user you would like to connect to the database as
 - password (optional): the password for the given user
 
-<strong>HINT</strong>: if your database requires an ssh tunnel, pair this app with https://github.com/briem-bixly/nebri-ssh.
+<strong>HINT</strong>: if your database requires an ssh tunnel, pair this app with https://github.com/nebrie/nebri-ssh.
